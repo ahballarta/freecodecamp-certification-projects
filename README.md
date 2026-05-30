@@ -1,4 +1,4 @@
-# FreeCodeCamp Certification Projects
+# My FreeCodeCamp Certification Projects
 
 Repositorio que contiene mis proyectos desarrollados como parte de las certificaciones de FreeCodeCamp.
 
@@ -25,11 +25,11 @@ Documentar mi progreso mientras desarrollo los proyectos requeridos para obtener
 
 ---
 
-# FreeCodeCamp Certification Projects
+## English
 
-Repository containing projects completed as part of FreeCodeCamp certifications.
+This repository contains my projects developed as part of FreeCodeCamp certifications.
 
-## Python Certification
+### Python Certification
 
 | Project | Status |
 |----------|---------|
@@ -39,6 +39,13 @@ Repository containing projects completed as part of FreeCodeCamp certifications.
 | Hash Table | ⏳ Pending |
 | Tower of Hanoi Algorithm | ⏳ Pending |
 
-## Goal
+### Progress
+
+- Python Basics ✅
+- Loops and Sequences ✅
+- Dictionaries and Sets ✅
+- Certification Project: User Configuration Manager ✅
+
+### Goal
 
 Document my progress while completing the projects required for the FreeCodeCamp Python Certification.
