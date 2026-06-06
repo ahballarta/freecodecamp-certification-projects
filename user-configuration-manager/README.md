@@ -62,6 +62,8 @@ bash python user_configuration_manager.py
 
 Author
 
-André Ballarta
+André Ballarta Elguera
 
-Completed as part of the freeCodeCamp Python Certification.
+---
+
+Completado como parte de la Certificación de Python de freeCodeCamp / Completed as part of the freeCodeCamp Python Certification
