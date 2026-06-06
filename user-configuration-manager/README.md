@@ -60,4 +60,8 @@ bash python user_configuration_manager.py
 
 ---
 
+Author
+
+André Ballarta
+
 Completed as part of the freeCodeCamp Python Certification.
