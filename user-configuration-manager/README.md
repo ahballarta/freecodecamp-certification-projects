@@ -2,11 +2,15 @@
 
 freeCodeCamp — Proyecto de Certificación n.º 1 de Python / Python Certification Project No. 1
 
-## Descripción
+---
+
+## Español
+
+### Descripción
 
 Programa desarrollado en Python que simula un sistema de gestión de configuraciones de usuario. Permite agregar, actualizar, eliminar y visualizar preferencias como tema, idioma y notificaciones mediante el uso de diccionarios, tuplas y funciones.
 
-## Lo que aprendí
+### Lo que aprendí
 
 - Uso de diccionarios y tuplas en Python.
 - Manipulación de cadenas con .lower() y .capitalize().
@@ -15,7 +19,7 @@ Programa desarrollado en Python que simula un sistema de gestión de configuraci
 - Iteración sobre diccionarios con .items().
 - Formateo de texto utilizando f-strings.
 
-## Funciones
+### Funciones
 
 | Función | Descripción |
 |----------|-------------|
@@ -24,7 +28,7 @@ Programa desarrollado en Python que simula un sistema de gestión de configuraci
 | delete_setting(dictionary, key) | Elimina una configuración por clave. |
 | view_settings(dictionary) | Muestra todas las configuraciones almacenadas de forma organizada. |
 
-## Ejecución
+### Ejecución
 
 bash python user_configuration_manager.py 
 
@@ -60,7 +64,7 @@ bash python user_configuration_manager.py
 
 ---
 
-Author
+## Author
 
 André Ballarta Elguera
 
