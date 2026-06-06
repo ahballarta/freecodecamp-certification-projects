@@ -31,7 +31,7 @@ Programa desarrollado en Python que simula un sistema de gestión de configuraci
 ### Ejecución
 
 ```bash
-python user_configuration_manager.py 
+python user_configuration_manager.py
 ```
 
 ---
@@ -63,7 +63,7 @@ Python program that simulates a user configuration management system. It allows 
 ### Run
 
 ```bash
-python user_configuration_manager.py 
+python user_configuration_manager.py
 ```
 
 ---
