@@ -1,6 +1,6 @@
-# User Configuration Manager
+# User Configuration Manager / Gestor de Configuración de Usuarios
 
-freeCodeCamp — Python Certification
+freeCodeCamp — Proyecto de Certificación n.º 1 de Python / Python Certification Project No. 1
 
 ## Descripción
 
