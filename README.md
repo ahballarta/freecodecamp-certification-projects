@@ -7,7 +7,7 @@ Repositorio que contiene mis proyectos desarrollados como parte de las certifica
 | Proyecto | Estado |
 |-----------|---------|
 | User Configuration Manager | ✅ Completado |
-| Budget App | ⏳ Pendiente |
+| Budget App | ✅ Completado |
 | Polygon Area Calculator | ⏳ Pendiente |
 | Hash Table | ⏳ Pendiente |
 | Tower of Hanoi Algorithm | ⏳ Pendiente |
@@ -18,6 +18,9 @@ Repositorio que contiene mis proyectos desarrollados como parte de las certifica
 - Loops and Sequences ✅
 - Dictionaries and Sets ✅
 - Certification Project: User Configuration Manager ✅
+- Error Handling ✅
+- Classes and Objects ✅
+- Certification Project: Budget App ✅
 
 ## Objetivo
 
@@ -34,7 +37,7 @@ This repository contains my projects developed as part of FreeCodeCamp certifica
 | Project | Status |
 |----------|---------|
 | User Configuration Manager | ✅ Completed |
-| Budget App | ⏳ Pending |
+| Budget App | ✅ Completed |
 | Polygon Area Calculator | ⏳ Pending |
 | Hash Table | ⏳ Pending |
 | Tower of Hanoi Algorithm | ⏳ Pending |
@@ -45,7 +48,20 @@ This repository contains my projects developed as part of FreeCodeCamp certifica
 - Loops and Sequences ✅
 - Dictionaries and Sets ✅
 - Certification Project: User Configuration Manager ✅
+- Error Handling ✅
+- Classes and Objects ✅
+- Certification Project: Budget App ✅
 
 ### Goal
 
 Document my progress while completing the projects required for the FreeCodeCamp Python Certification.
+
+---
+
+### Author
+
+André Ballarta Elguera
+
+---
+
+Completado como parte de la Certificación de Python de freeCodeCamp / Completed as part of the freeCodeCamp Python Certification
