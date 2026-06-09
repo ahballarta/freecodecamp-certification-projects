@@ -1,5 +1,7 @@
 # My FreeCodeCamp Certification Projects
 
+## Español
+
 Repositorio que contiene mis proyectos desarrollados como parte de las certificaciones de FreeCodeCamp.
 
 ## Python Certification
@@ -58,7 +60,7 @@ Document my progress while completing the projects required for the FreeCodeCamp
 
 ---
 
-### Author
+### Autor / Author
 
 André Ballarta Elguera
 
