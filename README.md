@@ -10,7 +10,7 @@ Repositorio que contiene mis proyectos desarrollados como parte de las certifica
 |-----------|---------|
 | User Configuration Manager | ✅ Completado |
 | Budget App | ✅ Completado |
-| Polygon Area Calculator | ⏳ Pendiente |
+| Polygon Area Calculator | ✅ Completado |
 | Hash Table | ⏳ Pendiente |
 | Tower of Hanoi Algorithm | ⏳ Pendiente |
 
@@ -23,6 +23,8 @@ Repositorio que contiene mis proyectos desarrollados como parte de las certifica
 - Error Handling ✅
 - Classes and Objects ✅
 - Certification Project: Budget App ✅
+- Object-Oriented Programming (OOP) ✅
+- Certification Project: Polygon Area Calculator ✅
 
 ## Objetivo
 
@@ -40,7 +42,7 @@ This repository contains my projects developed as part of FreeCodeCamp certifica
 |----------|---------|
 | User Configuration Manager | ✅ Completed |
 | Budget App | ✅ Completed |
-| Polygon Area Calculator | ⏳ Pending |
+| Polygon Area Calculator | ✅ Completado |
 | Hash Table | ⏳ Pending |
 | Tower of Hanoi Algorithm | ⏳ Pending |
 
@@ -53,6 +55,8 @@ This repository contains my projects developed as part of FreeCodeCamp certifica
 - Error Handling ✅
 - Classes and Objects ✅
 - Certification Project: Budget App ✅
+- Object-Oriented Programming (OOP) ✅
+- Certification Project: Polygon Area Calculator ✅
 
 ### Goal
 
