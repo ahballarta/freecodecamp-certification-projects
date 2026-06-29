@@ -19,14 +19,14 @@ Repositorio que contiene mis proyectos desarrollados como parte de las certifica
 - Python Basics ✅
 - Loops and Sequences ✅
 - Dictionaries and Sets ✅
-- Certification Project: User Configuration Manager ✅
+- Proyecto de Certificación: User Configuration Manager ✅
 - Error Handling ✅
 - Classes and Objects ✅
-- Certification Project: Budget App ✅
+- Proyecto de Certificación: Budget App ✅
 - Object-Oriented Programming (OOP) ✅
-- Certification Project: Polygon Area Calculator ✅
+- Proyecto de Certificación: Polygon Area Calculator ✅
 - Linear Data Structures ✅
-- Certification Project: Hash Table ✅
+- Proyecto de Certificación: Hash Table ✅
 
 ## Objetivo
 
